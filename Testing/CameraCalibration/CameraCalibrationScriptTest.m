@@ -57,7 +57,7 @@ image(undistortedImage)
 title("Undistorted Image - First Calibration")
 
 % See additional examples of how to use the calibration data.  At the prompt type:
-% showdemo('MeasuringPlanarObjectsExample')
+showdemo('MeasuringPlanarObjectsExample')
 % showdemo('StructureFromMotionExample')
 
 %% From here on is my code to calculate sizes of objects in the images (markers)
